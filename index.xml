@@ -6,25 +6,23 @@
     <description>Recent content on David Sport Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 13 Feb 2021 18:40:47 +0800</lastBuildDate><atom:link href="https://davidlyu116.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://davidlyu116.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Content 2</title>
-      <link>https://davidlyu116.github.io/blog/second-post/</link>
-      <pubDate>Sat, 13 Feb 2021 18:40:47 +0800</pubDate>
+      <title>Test Content</title>
+      <link>https://davidlyu116.github.io/blog/test-content/</link>
+      <pubDate>Sun, 14 Feb 2021 18:00:00 +0800</pubDate>
       
-      <guid>https://davidlyu116.github.io/blog/second-post/</guid>
+      <guid>https://davidlyu116.github.io/blog/test-content/</guid>
       <description>Second post on github.</description>
     </item>
     
     <item>
-      <title>Test Content</title>
+      <title>Test-1</title>
       <link>https://davidlyu116.github.io/blog/test/</link>
-      <pubDate>Fri, 12 Feb 2021 15:40:47 +0800</pubDate>
+      <pubDate>Sat, 13 Feb 2021 16:00:00 +0800</pubDate>
       
       <guid>https://davidlyu116.github.io/blog/test/</guid>
-      <description>Hello World
-This is David
-一級標題 二級標題 六級標題  第一點  之一  成績      hello</description>
+      <description>USwing 魔鏡 對於太陽眼鏡的分類有很多。</description>
     </item>
     
     <item>

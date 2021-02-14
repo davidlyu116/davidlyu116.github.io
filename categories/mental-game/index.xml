@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golf on David Sport Blog</title>
-    <link>https://davidlyu116.github.io/tags/golf/</link>
-    <description>Recent content in Golf on David Sport Blog</description>
+    <title>Mental Game on David Sport Blog</title>
+    <link>https://davidlyu116.github.io/categories/mental-game/</link>
+    <description>Recent content in Mental Game on David Sport Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Feb 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://davidlyu116.github.io/tags/golf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://davidlyu116.github.io/categories/mental-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Content</title>
       <link>https://davidlyu116.github.io/blog/test-content/</link>
